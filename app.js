@@ -1,2 +1,1 @@
-var hello = "Hello こんにちわ！";
-alert(hello);
+alert(9/2);
